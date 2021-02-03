@@ -1,0 +1,10 @@
+.text_color_w{
+    color: #fff;
+}
+.btn__sing-up_color {
+    background: #693D3D;
+}
+.btn__sing-up_color:hover{
+    color: #fff4f2;
+    background: #3e2121;
+}
